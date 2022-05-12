@@ -1,5 +1,5 @@
 ## Walking-Robot-Optimization-Problems
-In this repository, projection into subspaces is and  plane representation are investigated through different examples. It is a solution of Assignment1 in Computational Intelligence course for ROCV master's program at Innopolis University.
+In this repository, some walking robot optimization problems are solved using cvxpy feasibility problems and linear programming. It is a solution of Assignment2 in Computational Intelligence course for ROCV master's program at Innopolis University.
 
 ---
 ### Task description
