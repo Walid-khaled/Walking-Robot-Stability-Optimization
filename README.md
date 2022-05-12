@@ -1,4 +1,4 @@
-## Walking-Robot-Optimization-Problems
+## Walking-Robot-Stability-Optimization
 In this repository, some walking robot optimization problems are solved using cvxpy feasibility problems and linear programming. It is a solution of Assignment2 in Computational Intelligence course for ROCV master's program at Innopolis University.
 
 ---
