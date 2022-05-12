@@ -4,7 +4,7 @@ In this repository, projection into subspaces is and  plane representation are i
 ---
 ### Task description
 Tasks are described in the TASK.pdf file attached above.  
-<img src="https://user-images.githubusercontent.com/90580636/168137701-42399c82-a6f3-44bd-86e4-bbaf741e112c.png" width="300" height="200" />
+<img src="https://user-images.githubusercontent.com/90580636/168137701-42399c82-a6f3-44bd-86e4-bbaf741e112c.png" width="500" height="500" />
 
 
 
